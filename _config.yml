@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/type-theme"
-url: "https://maxstermade.github.io/bulangja/"
+baseurl: "/bulangja"
+url: "https://maxstermade.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
